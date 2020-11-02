@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7237bec7-a45c-4889-a261-7b88ec6f70a2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jSoUX5U1s3Lh9S3gSqWrOJpsKS" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7237bec7-a45c-4889-a261-7b88ec6f70a2" name="Default Changelist" comment="" />
+      <created>1603826582854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603826582854</updated>
+      <workItem from="1603826586770" duration="3564000" />
+      <workItem from="1603883947699" duration="46712000" />
+      <workItem from="1604224662379" duration="1955000" />
+      <workItem from="1604231988041" duration="7250000" />
+      <workItem from="1604250020950" duration="12247000" />
+      <workItem from="1604316782461" duration="1703000" />
+      <workItem from="1604332056048" duration="314000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add assets">
+      <created>1603881415236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603881415236</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add slider">
+      <created>1603892838219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603892838219</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add slick">
+      <created>1603892959020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603892959020</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: remove trash">
+      <created>1603893047687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603893047687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: remove fix width">
+      <created>1603893787677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603893787677</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: add Shift">
+      <created>1603908298880</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603908298880</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix: fix response and links">
+      <created>1603912259528</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603912259528</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: fix response and links">
+      <created>1603915159126</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603915159126</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix:  link to burger menu">
+      <created>1603915741617</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603915741617</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix : responsive view">
+      <created>1603960388981</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603960388981</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix : display symbols when shift push">
+      <created>1603973829351</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603973829351</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: switch ru eng">
+      <created>1604083833082</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604083833082</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: keydown keys">
+      <created>1604263830164</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604263830164</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix: keydown keys">
+      <created>1604264230814</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604264230814</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix: add favicon">
+      <created>1604317877544</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604317877544</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add assets" />
+    <MESSAGE value="feat: add slider" />
+    <MESSAGE value="feat: add slick" />
+    <MESSAGE value="feat: remove trash" />
+    <MESSAGE value="fix: remove fix width" />
+    <MESSAGE value="feat: add Shift" />
+    <MESSAGE value="fix: fix response and links" />
+    <MESSAGE value="fix:  link to burger menu" />
+    <MESSAGE value="fix : responsive view" />
+    <MESSAGE value="fix : display symbols when shift push" />
+    <MESSAGE value="feat: switch ru eng" />
+    <MESSAGE value="fix: keydown keys" />
+    <MESSAGE value="fix: add favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: add favicon" />
+  </component>
+</project>
