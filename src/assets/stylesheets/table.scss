@@ -1,6 +1,6 @@
 @charset 'UTF-8';
-@import 'variables';
-@import 'mixins';
+@import "variables";
+@import "mixins";
 
 * {
   box-sizing: border-box;
@@ -24,7 +24,7 @@
 }
 
 .table-wrapper::-webkit-scrollbar-thumb {
-  background:$text-red-color;
+  background: $text-red-color;
   border-radius: 10px;
 }
 

@@ -1,6 +1,6 @@
 @charset "UTF-8";
-@import 'variables';
-@import 'mixins';
+@import "variables";
+@import "mixins";
 
 .header-wrapper {
   @include wrapper-props;
@@ -14,12 +14,12 @@
     align-items: center;
   }
 
-  .header-logo{
-    padding-left: .5em;
+  .header-logo {
+    padding-left: 0.5em;
     width: 3em;
     cursor: pointer;
   }
-  .header-title{
+  .header-title {
     color: $text-yellow-color;
     cursor: pointer;
   }
@@ -40,4 +40,3 @@
     opacity: 0.6;
   }
 }
-

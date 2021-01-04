@@ -1,4 +1,4 @@
-@import 'variables';
+@import "variables";
 
 @mixin wrapper-props() {
   margin: 3px;
@@ -12,7 +12,7 @@
     height: 100%;
     position: relative;
   }
-  
+
   .fullScreenButton {
     position: absolute;
     top: 10px;
@@ -21,18 +21,18 @@
     height: 40px;
     z-index: 1000;
     cursor: pointer;
-  
+
     border-radius: 3px;
     text-align: center;
     background-color: $text-red-color;
     transition: all 0.3s ease-out;
   }
-  
+
   .fullScreenButton:hover {
     cursor: pointer;
     opacity: 0.6;
   }
-  
+
   .fullScreenButton i {
     font-size: 40px;
   }

@@ -1,6 +1,6 @@
 @charset 'UTF-8';
-@import 'normalize';
-@import 'variables';
+@import "normalize";
+@import "variables";
 
 .app-wrapper {
   height: 100vh;
@@ -8,10 +8,10 @@
   display: grid;
 
   grid-template-areas:
-    'header header header'
-    'table map stats'
-    'table map graph'
-    'footer footer footer';
+    "header header header"
+    "table map stats"
+    "table map graph"
+    "footer footer footer";
 
   grid-template-rows: 60px 1fr 1fr 60px;
   grid-template-columns: 2fr 5fr 2fr;
@@ -50,12 +50,12 @@
   .app-wrapper {
     overflow-y: scroll;
     grid-template-areas:
-    'header'
-    'stats'
-    'map'
-    'table'  
-    'graph'
-    'footer';
+      "header"
+      "stats"
+      "map"
+      "table"
+      "graph"
+      "footer";
     grid-template-rows: 60px 300px 500px 500px 500px 60px;
     grid-template-columns: 1fr;
   }
@@ -63,9 +63,9 @@
   .app-wrapper::-webkit-scrollbar {
     width: 12px;
   }
-  
+
   .app-wrapper::-webkit-scrollbar-thumb {
-    background:$text-red-color;
+    background: $text-red-color;
     border-radius: 10px;
   }
 
@@ -76,11 +76,11 @@
   .map_full-screen {
     grid-template-rows: 60px 0 1fr 0 0 60px;
   }
-  
+
   .table_full-screen {
     grid-template-rows: 60px 0 0 1fr 0 60px;
   }
-  
+
   .graph_full-screen {
     grid-template-rows: 60px 0 0 0 1fr 60px;
   }

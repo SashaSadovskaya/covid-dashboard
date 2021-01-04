@@ -1,4 +1,4 @@
-@import 'variables';
+@import "variables";
 
 .toggle-switch {
   position: relative;
@@ -39,7 +39,7 @@
       box-sizing: border-box;
     }
     &:before {
-      content: '';
+      content: "";
       text-transform: uppercase;
       padding-left: 10px;
       background-color: $text-red-color;
@@ -55,7 +55,7 @@
     }
   }
   &-inner:after {
-    content: '';
+    content: "";
     text-transform: uppercase;
     padding-right: 10px;
     background-color: #bbb;

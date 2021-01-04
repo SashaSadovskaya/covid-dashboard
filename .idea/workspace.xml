@@ -1,58 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7237bec7-a45c-4889-a261-7b88ec6f70a2" name="Default Changelist" comment="feat: add project to repo">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.huskyrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lintstagedrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/API.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/APITypes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/rs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/virus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/graph.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/mainPreloader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/stats.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/stylesheets/table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Graph/Graph.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Map/Map.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Map/mapConstants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Preloaders/MainPreloader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stats/Stats.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Switch/Switch.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/Constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/Table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/ico/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/images/gh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/images/virus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/shims.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.base.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7237bec7-a45c-4889-a261-7b88ec6f70a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/graph.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/graph.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/map.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/map.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/stats.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/stats.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/switch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/switch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/stylesheets/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/stylesheets/table.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +37,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reveal.js-master" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -227,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608749356151</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: add project to repo">
+      <created>1608750112794</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608750112794</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +229,7 @@
     <MESSAGE value="fix: keydown keys" />
     <MESSAGE value="fix: add favicon" />
     <MESSAGE value="feat: add .idea to .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add .idea to .gitignore" />
+    <MESSAGE value="feat: add project to repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add project to repo" />
   </component>
 </project>
